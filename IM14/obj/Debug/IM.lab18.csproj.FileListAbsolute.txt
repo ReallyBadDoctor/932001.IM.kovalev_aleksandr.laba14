@@ -1,0 +1,11 @@
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\bin\Debug\IM.lab18.exe.config
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\bin\Debug\IM.lab18.exe
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\bin\Debug\IM.lab18.pdb
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.csproj.AssemblyReference.cache
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.csproj.SuggestedBindingRedirects.cache
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.Form1.resources
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.Properties.Resources.resources
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.csproj.GenerateResource.cache
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.csproj.CoreCompileInputs.cache
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.exe
+C:\Users\zadir\Desktop\SM.931802.Komarov.Lab18-master\IM.lab18\obj\Debug\IM.lab18.pdb
